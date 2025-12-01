@@ -1,1 +1,0 @@
-powershell -c "Write-Host 'Йооо, братан, ты в системе 😈 держи шелл' -ForegroundColor Cyan; $host.ui.rawui.windowtitle='pwned by senpai'; cmd"
